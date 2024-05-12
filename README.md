@@ -6,6 +6,6 @@ Therefore, while we have prioritized the development of our AI algorithms, we ha
 Rest assured, once we have perfected our AI models, we will shift our attention to developing the user-friendly application interface.
 
 
-Here is the link to our models : [Our Models](https://drive.google.com/drive/folders/16B28FwR6O6Gkse4Y2xIhOaRHDaX0m_5W?usp=sharing)
+Due to the limitation of size in Github, here is the link to our models : [Our Models](https://drive.google.com/drive/folders/16B28FwR6O6Gkse4Y2xIhOaRHDaX0m_5W?usp=sharing)
 
 ![childPen](https://github.com/artfull-boy/ChildPen/blob/main/Slide%201.png)
